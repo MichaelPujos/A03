@@ -5,4 +5,7 @@
   <li>Tea</li>
   <li>Milk</li>
 </ol>
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+
+[1]: https://stackoverflow.com/users/214446/mb21
+[2]: https://github.com/hadley/testthat
+[3]: http://r-pkgs.had.co.nz/tests.html
