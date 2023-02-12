@@ -6,4 +6,4 @@
   <li>Scroll until you find the Apply Now tab to sign up for student/teacher access to WebStorm</li>
 </ol>
 
-<h2>PART 1: Directions on Using Webstorm</h2>
+### PART 2: Directions on Using Webstorm
