@@ -1,7 +1,7 @@
 # A03
 <h2>PART 1: Directions on Using Webstorm</h2>
 <ol>
-  <li>Go to [Jetbrains](https://www.jetbrains.com).</li>
+  <li>This site was built using [GitHub Pages](https://pages.github.com/).</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
