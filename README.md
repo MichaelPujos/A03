@@ -6,7 +6,7 @@
 
 ### PART 2: Glossary to include these terms in a bulleted list.
 <ul>
-  <li><strong>Branch</strong></li>
+  <li><strong>Branch</strong>: Code branching enables software development teams to work on different parts of a project without impacting each other.</li>
   <li><strong>Clone</strong></li>
   <li><strong>Commit</strong></li>
   <li><strong>Fetch</strong></li>
