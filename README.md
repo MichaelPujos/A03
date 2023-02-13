@@ -8,7 +8,7 @@
 
 ### PART 2: Glossary to include these terms in a bulleted list.
 <ul>
-  <li>**Branch**</li>
+  <li><strong>Branch</strong></li>
   <li>**Clone**</li>
   <li>**Commit**</li>
   <li>**Fetch**</li>
