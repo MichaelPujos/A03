@@ -22,5 +22,6 @@
 
 ### PART 3: References
 <ul>
-  <li><a href="https://www.w3.org/">W3C</a></li>
+  <li><a href="https://www.perforce.com/blog/vcs/branching-definition-what-branch#:~:text=Code%20branching%20enables%20software%20development,codebase%20by%20branching%20and%20merging">What is a Branch?</a></li>
+  <li><a href=""
 </ul>
