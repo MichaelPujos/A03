@@ -1,6 +1,6 @@
 # A03
 ### PART 1: Directions on Using Webstorm
-  1. Go to the [Jetbrains] (https://www.jetbrains.com/webstorm/) website
+  1. Go to the [Jetbrains](https://www.jetbrains.com/webstorm/) website
   2. Go to the Education tab on the top and go to Free Educational Licenses
   3. Scroll until you find the Apply Now tab to sign up for student/teacher access to WebStorm
 
