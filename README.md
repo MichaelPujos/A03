@@ -8,8 +8,8 @@
 <ul>
   <li><strong>Branch</strong>: Code branching enables software development teams to work on different parts of a project without impacting each other.</li>
   <li><strong>Clone</strong>: In a software system, similar or identical fragments of code are known as code clones.</li>
-  <li><strong>Commit</strong>:</li>
-  <li><strong>Fetch</strong>: </li>
+  <li><strong>Commit</strong>: An operation which sends the latest changes of the source code to the repository</li>
+  <li><strong>Fetch</strong>: The retrieval of data by a software program, script, or hardware device. </li>
   <li><strong>GIT</strong>: </li>
   <li><strong>Github</strong>: </li>
   <li><strong>Merge</strong>: </li>
@@ -24,4 +24,5 @@
 <ul>
   <li><a href="https://www.perforce.com/blog/vcs/branching-definition-what-branch#:~:text=Code%20branching%20enables%20software%20development,codebase%20by%20branching%20and%20merging">What is a Branch?</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1877050918308123#:~:text=In%20a%20software%20system%2C%20similar,they%20use%20existing%20code%20fragments.">Code Clones</a></li>
+  <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
 </ul>
