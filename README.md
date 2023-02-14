@@ -3,11 +3,13 @@
   1. Go to the [Jetbrains](https://www.jetbrains.com/webstorm/) website
   2. Go to the Education tab on the top and go to [Free Educational Licenses](https://www.jetbrains.com/community/education/#students/)
   3. Scroll until you find the [Apply Now](https://www.jetbrains.com/shop/eform/students) tab to sign up for student/teacher access to WebStorm
-  4. To connect to Github, register an existing account by signing in to GitHub 
-  5. Enter your GitHub credentials in the browser window that opens
-  6. To connect to Git, go to the top of the Webstorm and look for VCS
-  7. Click Enable Version Control Integration
-  8. Inside choose Git and click OK
+  4. To connect to Github, Press Ctrl+Alt+S to open the IDE settings and select Version Control | GitHub.
+  5. Click the Add button.
+  6. Select Log In via GitHub.
+  7. Enter your GitHub credentials in the browser window that opens
+  8. To connect to Git, go to the top of the Webstorm and look for VCS
+  9. Click Enable Version Control Integration
+  10. Inside choose Git and click OK
 
 ### PART 2: Glossary to include these terms in a bulleted list.
 <ul>
