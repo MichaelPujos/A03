@@ -1,8 +1,13 @@
 # A03
-### PART 1: Directions on Using Webstorm
+### PART 1: Directions on Using Webstorm.
   1. Go to the [Jetbrains](https://www.jetbrains.com/webstorm/) website
   2. Go to the Education tab on the top and go to [Free Educational Licenses](https://www.jetbrains.com/community/education/#students/)
   3. Scroll until you find the [Apply Now](https://www.jetbrains.com/shop/eform/students) tab to sign up for student/teacher access to WebStorm
+  4. To connect to Github, register an existing account by signing in to GitHub 
+  5. Enter your GitHub credentials in the browser window that opens
+  6. To connect to Git, go to the top of the Webstorm and look for VCS
+  7. Click Enable Version Control Integration
+  8. Inside choose Git and click OK
 
 ### PART 2: Glossary to include these terms in a bulleted list.
 <ul>
