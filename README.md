@@ -11,7 +11,7 @@
   <li><strong>Commit</strong>: An operation which sends the latest changes of the source code to the repository</li>
   <li><strong>Fetch</strong>: The retrieval of data by a software program, script, or hardware device. </li>
   <li><strong>GIT</strong>: A version control system used for tracking changes in computer files</li>
-  <li><strong>Github</strong>: </li>
+  <li><strong>Github</strong>: A code hosting platform for version control and collaboration</li>
   <li><strong>Merge</strong>: </li>
   <li><strong>Merge Conflict</strong>: </li>
   <li><strong>Push</strong>: </li>
@@ -26,7 +26,7 @@
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1877050918308123#:~:text=In%20a%20software%20system%2C%20similar,they%20use%20existing%20code%20fragments.">Code Clones</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
   <li><a href="https://www.simplilearn.com/tutorials/git-tutorial/what-is-git#:~:text=Git%20is%20a%20version%20control,used%20for%20source%20code%20management">What is Git?</a></li>
-  <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/hello-world">Hello World</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
