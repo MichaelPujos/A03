@@ -26,7 +26,7 @@
   <li><strong>Remote</strong>: A concept that describes a form of cyberattack in which the attacker can solely command the operation of another person's computing device or computer. </li>
   <li><strong>Repository</strong>: A place that hosts an application's code source, together with various metadata</li>  
 </ul>
-
+ 
 ### PART 3: References
 <ul>
   <li><a href="https://www.perforce.com/blog/vcs/branching-definition-what-branch#:~:text=Code%20branching%20enables%20software%20development,codebase%20by%20branching%20and%20merging">What is a Branch?</a></li>
