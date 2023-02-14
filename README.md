@@ -32,4 +32,5 @@
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
   <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
+  <li><a href="https://www.computerhope.com/jargon/f/fetch.htm#:~:text=Fetch%20is%20the%20retrieval%20of,Hardware%20terms%2C%20Read%2C%20Software%20terms">What is Fetch?</a></li>
 </ul>
