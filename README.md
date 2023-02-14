@@ -24,7 +24,7 @@
   <li><strong>Push</strong>:  A function that adds one or more elements to the end of an array or "top" of a stack</li>
   <li><strong>Pull</strong>: An event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository.</li>
   <li><strong>Remote</strong>: A concept that describes a form of cyberattack in which the attacker can solely command the operation of another person's computing device or computer. </li>
-  <li><strong>Repository</strong>: A place that hosts an application's code source, together with various metadata</li>
+  <li><strong>Repository</strong>: A place that hosts an application's code source, together with various metadata</li> 
 </ul>
 
 ### PART 3: References
